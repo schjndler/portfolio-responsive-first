@@ -1,0 +1,13 @@
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+1. git init / start, neues projekt
+3. gitt add . // . = alle / o. Name
+4. git remote add Website-V1 https://github.com/Schindl3r/Website-V1 // nur beim ersten mal
+4. git commit -m "Hallo Welt!"
+5.git push Website-V1
+
+
+________________________________________________________________________________________________________________________
+
+Schindler, 23, Nürnberg | 
+dev in trainee, motivated & ambitious
